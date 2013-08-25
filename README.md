@@ -1,4 +1,4 @@
 Lanchinho
 =========
 
-Projeto particular
+Projeto particular.
